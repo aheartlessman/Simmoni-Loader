@@ -1,9 +1,8 @@
 # Simmoni-Cheat-Loader
 A simple cheat loader that is based on the github repository
 # SS: 
-![image](https://github.com/user-attachments/assets/842e78d8-76fa-4f9f-86a4-3f6972ad862b)
-![image](https://github.com/user-attachments/assets/ff5d6394-a2a3-40c3-bccb-ad0ad1a55679)
-![image](https://github.com/user-attachments/assets/74611e5e-7012-4b5f-833f-a1217be436e4)
+![image](https://github.com/user-attachments/assets/a3850f13-12f4-40c3-9cc7-a835624dd440)
+![image](https://github.com/user-attachments/assets/d6ee07a4-77aa-42db-bce8-f3e15bb14a37)
 # Introduction / Введение
 Russian Language:
 Данный лоадер ничего из себя не представляет, он всего лишь проверяет юзернейм и пароль, если немного доделать, то можно использовать в каких то небольших проектах, но скорее исходники не для использования, а для изучения
